@@ -1,4 +1,4 @@
-image : gitpod/workspace-full-vnc
+
 vscode:
   extensions:
     - vscjava.vscode-java-debug@0.21.0:2xtBRE0lp5AV4/J7Ptda+g==
