@@ -1,4 +1,3 @@
-
 vscode:
   extensions:
     - vscjava.vscode-java-debug@0.21.0:2xtBRE0lp5AV4/J7Ptda+g==
@@ -11,3 +10,5 @@ vscode:
     - PKief.material-icon-theme@3.9.2:xeHlNzPEF04yFqz/xKCD5w==
     - tomoki1207.pdf@0.5.1:hWRM9CIZvyTMEoCvvWtSCw==
     - donjayamanne.githistory@0.4.13:BULO61FQv6Ie/05ZHCYakQ==
+image:
+  file: .gitpod.Dockerfile
