@@ -1,4 +1,5 @@
-FROM thyrlian/android-sdk
+FROM runmymind/docker-android-sdk
+
                     
 
 
